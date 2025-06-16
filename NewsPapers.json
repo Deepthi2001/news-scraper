@@ -1,0 +1,14 @@
+{
+    "bbc": {
+        "link": "https://www.bbc.com/news",
+        "rss": "http://feeds.bbci.co.uk/news/rss.xml"
+    },
+    "cnn": {
+        "link": "https://www.cnn.com",
+        "rss": "http://rss.cnn.com/rss/cnn_topstories.rss"
+    },
+    "nytimes": {
+        "link": "https://www.nytimes.com",
+        "rss": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    }
+}
